@@ -1,4 +1,5 @@
 # Jenkins 2.0 and Docker 
+# Jeff Destine
 
 The new version of the Jenkins a.k.a Jenkins 2.0 will be released very soon. Jenkins 2.0 will be bringing us some new amazing features.
 
